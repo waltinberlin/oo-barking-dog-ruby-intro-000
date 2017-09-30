@@ -11,6 +11,6 @@ class Dog
     @name
   end
   def bark
-    puts "Whoof!"
+    puts "whoof!"
   end
 end
